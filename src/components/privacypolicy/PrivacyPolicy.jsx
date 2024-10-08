@@ -527,7 +527,7 @@ const PrivacyPolicy = () => {
             us:
           </p>
           <ul>
-            <li>By email: info@adszoo.in</li>
+            <li>By email: madadzindia@gmail.co</li>
             <li>
               By visiting this page on our website:
               <a href="https://mad-adz.vercel.app/" target="_blank"></a>
